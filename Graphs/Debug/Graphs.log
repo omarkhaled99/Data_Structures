@@ -1,0 +1,3 @@
+﻿  maze.cpp
+C:\Users\PC castle\source\repos\Graphs\maze.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  Graphs.vcxproj -> C:\Users\PC castle\source\repos\Graphs\Debug\Graphs.exe
