@@ -1,0 +1,6 @@
+﻿  Rbtree.cpp
+  red_black_trees.cpp
+  Generating Code...
+C:\Users\Omar_Khaled\Desktop\red_black_trees\Rbtree.cpp(42): warning C4715: 'Rbtree::findElement': not all control paths return a value
+  LINK : C:\Users\Omar_Khaled\Desktop\red_black_trees\Debug\red_black_trees.exe not found or not built by the last incremental link; performing full link
+  red_black_trees.vcxproj -> C:\Users\Omar_Khaled\Desktop\red_black_trees\Debug\red_black_trees.exe

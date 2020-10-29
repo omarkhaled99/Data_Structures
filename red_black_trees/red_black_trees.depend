@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586023553 source:c:\users\pc castle\source\repos\red_black_trees\rbtree.cpp
+	"Rbtree.h"
+	<iostream>
+	<algorithm>
+	<string.h>
+
+1586023553 c:\users\pc castle\source\repos\red_black_trees\rbtree.h
+	<algorithm>
+
+1586022765 source:c:\users\pc castle\source\repos\red_black_trees\red_black_trees.cpp
+	<iostream>
+	"Rbtree.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
